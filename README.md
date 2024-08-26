@@ -1,10 +1,3 @@
-<div style="display: inline_block">
-  <img align="center" alt="ita-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="ita-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg">
-</div>
-
----
-
 <img width="18" src="https://img.icons8.com/?size=100&id=iHI2gDXCsMzH&format=png&color=000000" alt="Brazil" />  Português
 # Plann.er de Viagem
 Desenvolvimento de uma aplicação back-end em C# com .NET, aplicação dos conceitos de Controladores, Entidades e Casos de uso, uso da abordagem DDD (Domain Drive Design), uso do DB Browser for SQLite pra manipulação do banco de dados, Swagger para documentação da API e o uso do ORM Entity Framework.
